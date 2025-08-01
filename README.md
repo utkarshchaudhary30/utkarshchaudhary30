@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white" />
+  
 </p>
 
 #### 🛠️ Tools & Platforms  
@@ -59,8 +59,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/getstream.io-0C7ABF?style=flat&logo=stream&logoColor=white" />
+
 </p>
 
 ---
