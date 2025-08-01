@@ -91,8 +91,8 @@
 
 - 🏆 **TCS CodeVita (Season 12):** Global Rank – *3402*
 - 💻 **Codeforces:** Peak Rating – *1019 (Newbie)*
-- 🔥 **LeetCode:** Rating – *1515* | Solved *400+ Problems*
-- ⭐ **GeeksforGeeks:** 3-Star Coder | Solved *100+ Questions*
+- 🔥 **LeetCode:** Rating – *1534* | Solved *400+ Problems*
+- ⭐ **GeeksforGeeks:** Rating - *1760* | Solved *100+ Questions*
 
 ---
 
